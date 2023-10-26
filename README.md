@@ -6,7 +6,7 @@ Hi, I am Muhammad Salih Gofurov, a front-end developer from Uzbekistan. My passi
 
 Connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-muhammadsolih-gofurov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadsolih-gofurov/)](https://www.linkedin.com/in/muhammadsolih-gofurov/) 
+[![Linkedin Badge](https://img.shields.io/badge/muhammadsolih-gofurov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadsolih-gofurov/)](https://www.linkedin.com/in/muhammadsolih-gofurov/) 
 [![Telegram Badge](https://img.shields.io/badge/@muhammadsolihdeveloper-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://https://t.me/MuhammadsolihDeveloper)](https://t.me/MuhammadsolihDeveloper)
 
   
@@ -18,9 +18,9 @@ Connect with me here:
 
 ## ⚡ Technologies
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Image](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
