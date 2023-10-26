@@ -2,7 +2,7 @@
 
 ## Hi there!
 
-Hi, I am Muhammad Salih Gofurov, a front-end developer from Uzbekistan. My passion for web sites is dreaming up ideas and making them high-quality, fast. </br>
+Hi, I am Muhammadsolih Gofurov, a front-end developer from Uzbekistan. My passion for web sites is dreaming up ideas and making them high-quality, fast. </br>
 
 Connect with me here:
 
