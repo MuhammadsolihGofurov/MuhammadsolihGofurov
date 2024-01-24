@@ -4,7 +4,7 @@
 
 Hi, I am Muhammadsolih Gofurov, a front-end developer from Uzbekistan. My passion for web sites is dreaming up ideas and making them high-quality, fast. </br>
 
-Connect with me here:
+Contact with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/muhammadsolih-gofurov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadsolih-gofurov/)](https://www.linkedin.com/in/muhammadsolih-gofurov/) 
 [![Telegram Badge](https://img.shields.io/badge/@muhammadsolihdeveloper-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://https://t.me/MuhammadsolihDeveloper)](https://t.me/MuhammadsolihDeveloper)
