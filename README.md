@@ -5,16 +5,18 @@
 
 ### 🚀 About Me
 - 💻 Full Stack Developer specializing in **React / Next.js** (frontend) and **Java Spring Boot** (backend)  
-- 🔐 Experienced in **Spring Security**, **JWT Authentication**, and **Role-Based Authorization**  
-- 🗄️ Skilled with relational databases: **MySQL** & **PostgreSQL**  
-- 🚀 Passionate about **startups** and building scalable products from scratch  
-- 👨🏻‍💼 Able to take responsibility as a **Team Lead**, guiding projects and teams effectively  
-- 🌱 Always learning and improving myself as a developer and leader  
+- 🔐 Strong in **Spring Security**, **JWT Authentication**, and **Role-Based Authorization**  
+- 🗄️ Skilled in **database design & optimization** with **MySQL** and **PostgreSQL**  
+- ⚙️ Building **REST APIs & Microservices** with scalable architecture  
+- 🚀 Passionate about **startups** and product development  
+- 👨🏻‍💼 Experienced in teamwork and able to take responsibility as a **Team Lead**  
+- 🌱 Always learning and growing in both technical and leadership skills  
 - 🌍 Based in **Uzbekistan**
 
 ---
 
 ### 🛠️ Tech Stack
+
 #### 🌐 Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -28,15 +30,21 @@
 #### ⚙️ Backend
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Core-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge&logo=microgenetics&logoColor=white" />
 </p>
 
 #### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 </p>
 
 #### 🔧 Tools & Others
@@ -44,6 +52,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Leadership-FF5733?style=for-the-badge&logo=trustpilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Startup%20Mindset-28A745?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
