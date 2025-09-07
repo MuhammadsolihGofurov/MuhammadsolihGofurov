@@ -5,9 +5,11 @@
 
 ### 🚀 About Me
 - 💻 Full Stack Developer specializing in **React / Next.js** (frontend) and **Java Spring Boot** (backend)  
-- 🗄️ Experienced with **MySQL** & **PostgreSQL** databases  
-- 🎯 Goal-oriented and passionate about building **modern, scalable web applications**  
-- 🌱 Always learning new technologies to grow as a developer  
+- 🔐 Experienced in **Spring Security**, **JWT Authentication**, and **Role-Based Authorization**  
+- 🗄️ Skilled with relational databases: **MySQL** & **PostgreSQL**  
+- 🚀 Passionate about **startups** and building scalable products from scratch  
+- 👨🏻‍💼 Able to take responsibility as a **Team Lead**, guiding projects and teams effectively  
+- 🌱 Always learning and improving myself as a developer and leader  
 - 🌍 Based in **Uzbekistan**
 
 ---
@@ -27,6 +29,8 @@
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
 #### 🗄️ Databases
@@ -35,11 +39,13 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-#### 🔧 Tools
+#### 🔧 Tools & Others
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leadership-FF5733?style=for-the-badge&logo=trustpilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Startup%20Mindset-28A745?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
 ---
